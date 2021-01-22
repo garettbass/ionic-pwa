@@ -1,0 +1,1 @@
+import{i}from"./p-f3493906.js";const o=()=>{(()=>{const i=window,o=i.Ionic;if(!o||!o.config||"Object"===o.config.constructor.name)return i.Ionic=i.Ionic||{},i.Ionic.config=Object.assign(Object.assign({},i.Ionic.config),{}),i.Ionic.config;console.error("ionic config was already initialized")})(),i()};export{o as g}
